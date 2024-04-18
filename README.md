@@ -1,4 +1,4 @@
-# Opis Skryptu Mirror Update
+# Opis Skryptu [Mirror Update](https://github.com/stachusar/Debian-monitoring/blob/main/debian-monitor.sh)
 
 ## Spis Treści
 [Opis](#opis)  
